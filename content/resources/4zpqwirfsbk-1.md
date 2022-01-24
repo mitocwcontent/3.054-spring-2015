@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/f6e2d069cbeff55c12152c92f92a5853_4zpQwirFsbk.pdf
+file_type: application/pdf
+resourcetype: Document
+title: 3play pdf file
+uid: f6e2d069-cbef-f55c-1215-2c92f92a5853
+---
